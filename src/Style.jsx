@@ -588,6 +588,12 @@ width: 80%;
 height: 20px;
 border-radius: 20px;
 background-color: #d4d4d4;
+@media (max-width: 600px) {
+
+width: 90%;
+text-align: center;
+
+}
 > ${Progresso} {
     height: 100%;
     border-radius: 20px;

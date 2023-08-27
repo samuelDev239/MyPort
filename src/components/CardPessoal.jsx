@@ -26,12 +26,12 @@ const CardPessoal = () => {
             <Alinhador>
             <ParagBlack>API</ParagBlack>
             <Barra>
-             <Progresso style={{width: '40%',  background: '#11bedddd'}}></Progresso>
+             <Progresso style={{width: '60%',  background: '#11bedddd'}}></Progresso>
             </Barra>
             </Alinhador>
        
         </ItemsPessoal>
-        <ImagePessoal src = "../src/img/imagePessoal.jpg"></ImagePessoal>
+        <ImagePessoal src = "https://github.com/samuelDev239/PortifolioDev/blob/main/src/img/imagePessoal.jpg?raw=true"></ImagePessoal>
     </Pessoal>
   )
 }

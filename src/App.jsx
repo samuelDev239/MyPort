@@ -140,7 +140,7 @@ function App() {
    
       <Footer>
        
-        <Parag> © SamuelDev 2023 </Parag>
+        <Parag> Samuellucianodev@gmail.com / © SamuelDev 2023 </Parag>
        
       </Footer>
     
