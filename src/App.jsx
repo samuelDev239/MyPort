@@ -47,7 +47,7 @@ function App() {
       <Nav cor = {color}></Nav>
       <Section>
         <DivTitulo>
-          <TituloParallax>Seja bem vindo ao meu portifólio</TituloParallax>
+          <TituloParallax>Seja bem vindo ao meu portfólio</TituloParallax>
         </DivTitulo>
       </Section>
       <DivTexto>
@@ -78,8 +78,7 @@ function App() {
               no Brasil, tenho curso tecnico de tecnologia da informação, Sou
               desenvolvedor front-End, trabalho com React Js/React native e
               tenho conhecimentos basicos de algumas linguagens usadas no
-              back-end, agora que você já tem algumas informações sobre mim, que
-              tal dar uma olhada nos meus projetos?
+              back-end.
             </Parag>
           </DivTextoCaixa>
         </Caixa>
